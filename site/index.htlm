@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<htlm>
+<html>
 <head>
-  <title></title>
- </head>
- <body>
-
- </body>
- </htlm>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Hello Coursera!</title>
+</head>
+<body>
+<h1> Hello World! </h1>
+</body>
+</html>
